@@ -1,0 +1,15 @@
+Ration distribution is one of the widely controversial issues that involve corruption and
+illegal distribution of the food grains and goods. The illegal activities are like, wrong entry in the
+database about the amount of products given to the people, distribution of low quality food grains
+than the actual quality provided for poor people. In databases where large amount of data is stored
+and accessed by different users and different access labels are need to incorporate the security and
+transparency during the different kinds of information extraction according to role based access
+labels. The proposed data model is implemented on the different access labels and a cryptographic
+security is implemented during data access. After implementation of these security models the
+performance of the system is evaluated. Here, proposed an Automatic Ration Materials
+Distribution Based on GSM (Global System for Mobile) and RFID (Radio Frequency
+Identification) technology instead of ration cards. To get the materials in ration shop one need’s to
+show the RFID tag into the RFID reader, then the controller will check the customer codes and the
+details of amount in the card. Once the verification is done, materials will get dispatched
+automatically depending upon the card type, after receiving materials controller sends the
+information to government office and customer through GSM technology.
